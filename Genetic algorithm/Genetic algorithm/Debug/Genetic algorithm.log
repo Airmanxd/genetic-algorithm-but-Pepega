@@ -1,0 +1,3 @@
+﻿  Genetic algorithm.cpp
+c:\users\александер\source\repos\genetic algorithm\genetic algorithm\genetic algorithm.cpp(168): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Genetic algorithm.vcxproj -> C:\Users\Александер\source\repos\Genetic algorithm\Debug\Genetic algorithm.exe
